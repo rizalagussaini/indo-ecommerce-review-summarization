@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "review": "Barang bagus banget! Sesuai deskripsi. Pengiriman cepat, cuma 2 hari udah sampai. Packing rapi pake bubble wrap tebal. Seller responsif, fast respon. Recommended banget deh!",
+    "summary": "Produk berkualitas dengan pengiriman cepat dan seller responsif."
+  },
+  {
+    "id": 2,
+    "review": "Kualitas produk oke sih, tapi pengiriman agak lama ya. Hampir seminggu baru nyampe. Overall masih puas karena barangnya bagus.",
+    "summary": "Produk bagus namun pengiriman lambat."
+  },
+  {
+    "id": 3,
+    "review": "Harga murah banget untuk kualitas segini. Worth it! Barang sesuai foto. Packing aman. Recommended buat yang budget terbatas.",
+    "summary": "Harga terjangkau dengan kualitas yang baik."
+  },
+  {
+    "id": 4,
+    "review": "Seller ramah dan fast respon. Barang ori 100%. Packaging rapih banget. Pengiriman standar aja. Puas sama pembelian ini.",
+    "summary": "Seller responsif dengan produk original dan kemasan rapi."
+  },
+  {
+    "id": 5,
+    "review": "Produk sesuai ekspektasi. Warna sama persis kayak di foto. Bahan bagus, jahitan rapi. Ukuran pas. Pengiriman oke.",
+    "summary": "Produk sesuai deskripsi dengan kualitas jahitan yang baik."
+  }
+]
